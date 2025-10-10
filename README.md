@@ -1,5 +1,5 @@
 # Happy_welcome_bot
-- I am developing a Bot for my telegram group.
+- I am developing a bot for my telegram group using Python.
 
 # Community address
 ## Channel 
